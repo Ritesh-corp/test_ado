@@ -1,3 +1,2 @@
 # test_ado
-for simple testingg. . . 
-new test . . . 
+for simple testing. 
