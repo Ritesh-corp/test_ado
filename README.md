@@ -1,2 +1,2 @@
 # test_ado
-for simple testing. 
+for simple testing. . .
